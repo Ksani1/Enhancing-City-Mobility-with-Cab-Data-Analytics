@@ -35,12 +35,10 @@ This project focuses on predicting ride-hailing prices for two major service pro
 
    Install the required dependencies:
    
- ```bash
    pip install -r requirements.txt
 
    Run the analysis scripts:
 
- ```bash
    python analysis.py
    View results and insights: The output includes visualizations, model performance metrics, and key insights on pricing dynamics.
 
