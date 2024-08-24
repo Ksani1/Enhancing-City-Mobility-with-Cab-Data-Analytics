@@ -48,10 +48,12 @@ This project focuses on predicting ride-hailing prices for two major service pro
 
 ## Results
    Model Accuracy: The Random Forest model provided the best performance with a low MAE and RMSE compared to other models.
+   
    Pricing Insights: The analysis highlighted how peak hours and adverse weather conditions significantly influence ride prices.
 
 ## Future Work
    Integrating additional features such as traffic conditions and real-time event data.
+   
    Developing a user-friendly dashboard for ride price estimation.
 
 ## Contributing
