@@ -62,5 +62,6 @@ This project focuses on predicting ride-hailing prices for two major service pro
 
 ## Acknowledgments
    Illinois Institute of Technology for providing the resources and guidance.
+   
    Open-source libraries and datasets that made this project possible.
 
