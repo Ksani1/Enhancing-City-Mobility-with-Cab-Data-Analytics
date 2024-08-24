@@ -32,3 +32,33 @@ This project focuses on predicting ride-hailing prices for two major service pro
    ```bash
    git clone https://github.com/your-username/cab-data-analytics.git
    cd cab-data-analytics
+
+   Install the required dependencies:
+   
+ ```bash
+   pip install -r requirements.txt
+
+   Run the analysis scripts:
+
+ ```bash
+   python analysis.py
+   View results and insights: The output includes visualizations, model performance metrics, and key insights on pricing dynamics.
+
+   Results
+   Model Accuracy: The Random Forest model provided the best performance with a low MAE and RMSE compared to other models.
+   Pricing Insights: The analysis highlighted how peak hours and adverse weather conditions significantly influence ride prices.
+
+   Future Work
+   Integrating additional features such as traffic conditions and real-time event data.
+   Developing a user-friendly dashboard for ride price estimation.
+
+   Contributing
+   Contributions are welcome! Please feel free to submit a pull request or open an issue.
+
+   License
+   This project is licensed under the MIT License - see the LICENSE file for details.
+
+   Acknowledgments
+   Illinois Institute of Technology for providing the resources and guidance.
+   Open-source libraries and datasets that made this project possible.
+
