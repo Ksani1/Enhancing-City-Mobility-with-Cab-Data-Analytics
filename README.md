@@ -34,12 +34,16 @@ This project focuses on predicting ride-hailing prices for two major service pro
    cd cab-data-analytics
 
 ## Install the required dependencies:
+
    
    pip install -r requirements.txt
 
+
 ## Run the analysis scripts:
 
+
    python analysis.py
+   
    View results and insights: The output includes visualizations, model performance metrics, and key insights on pricing dynamics.
 
 ## Results
